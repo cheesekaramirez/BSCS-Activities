@@ -1,0 +1,25 @@
+--Student Average Grades--
+Marcus Laurence: 
+	Average Grade= 91.25 
+Jame Bond: 
+	Average Grade= 87.75 
+Bea Bunda: 
+	Average Grade= 78.50 
+Pops Fernandez: 
+	Average Grade= 78.75 
+Sue Ramirez: 
+	Average Grade= 85.50 
+
+--Subject Average Grades--
+Logic: 84.20 
+Data Structures: 81.20 
+English: 85.40 
+Programming: 86.60 
+
+--Highest Average Grade--
+Marcus Laurence: 
+	Average Grade= 91.25 
+
+--Highest Average Grade (Subject)--
+Programming: 
+	Average Grade= 86.60 
