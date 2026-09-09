@@ -1,5 +1,6 @@
-import java.text.DecimalFormat;
+package chescaWorkspace;
 import java.util.Scanner;
+import java.text.DecimalFormat;
 
 public class CashierMenu
 {
